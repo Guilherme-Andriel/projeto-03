@@ -1,1 +1,3 @@
 Capitulo 1: Na segunda semana do minucurso de linux e git começamos aprender conceitos mais avançados, como: git reset
+
+Capitulo 2: Na aula da quarta feira 14/08 aprendemos boas praticas com git
