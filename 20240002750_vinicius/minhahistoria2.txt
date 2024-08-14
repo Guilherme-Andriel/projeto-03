@@ -1,0 +1,1 @@
+Capitulo 1: Na segunda semana do minucurso de linux e git começamos aprender conceitos mais avançados, como: git reset
